@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # go mod init jsonmodifier
 # go mod tidy
 # go build
